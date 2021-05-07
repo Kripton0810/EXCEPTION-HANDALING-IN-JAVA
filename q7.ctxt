@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=q7
+comment1.params=msg
+comment1.target=NoMatchFoundException(java.lang.String)
+comment2.params=str
+comment2.target=void\ check(java.lang.String)
+comment3.params=asd
+comment3.target=void\ main(java.lang.String[])
+numComments=4
